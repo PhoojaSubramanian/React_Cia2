@@ -1,0 +1,19 @@
+.main
+{
+    position: relative;
+    left: 600px;
+    top: 100px;
+    font-variant: small-caps;
+    height: 300px;
+    width: 400px;
+    padding: 50px;
+}
+#dropdown
+{
+    height: 35px;
+    width: 240px;
+    border-radius: 10px;
+}
+h3{
+    font-size: 200%;
+}
